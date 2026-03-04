@@ -1,4 +1,3 @@
-# app/engine.py
 from typing import List, Callable
 
 def run_budget_analysis(income: float, expenses: List[float], tax_callback: Callable) -> float:

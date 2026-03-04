@@ -29,4 +29,10 @@ This project demonstrates:
 - Clean formatted output
 -  Error handling
 
-## 🏗 Architecture
+## Setup
+
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+##Architecture
